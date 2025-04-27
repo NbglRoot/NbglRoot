@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Naim Babanaceur García de Lara and I'm a Front-End Developer from Spain.</h2>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NbglRoot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -8,11 +7,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NbglRoot&" height="150" alt="activity-graph graph"  />
 </div>
 
-###
 
 <img align="left" height="200" src="https://avatars.githubusercontent.com/u/188491410?s=400&u=4cac6b1c8096e3ca823828b4f2d4602e8660ad18&v=4"  />
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
@@ -44,7 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -53,16 +49,13 @@
   </a>
 </div>
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NbglRoot.NbglRoot&"  />
 </div>
 
-###
 
 <div align="center">
   <h3>See more in my <a target="_blank" href="https://nbglroot.github.io/portafolio-naim_babanaceur_garcia_de_lara/inicio">Portafolio</a>.</h3>
 </div>
 
-###
