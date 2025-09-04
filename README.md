@@ -20,7 +20,7 @@
 <br>
 <div align="center">
   
-  ### See more in my ![Portafolio](https://nbglroot.github.io/portafolio-naim_babanaceur_garcia_de_lara/inicio)
+  ### See more in my <a href="https://nbglroot.github.io/portafolio-naim_babanaceur_garcia_de_lara/">Portafolio</a>
 </div>
 
 <br>
